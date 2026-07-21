@@ -1,0 +1,201 @@
+Employee_ID,Employee_Name,Department,Designation,Experience_years,Technology_Stack,Project_ID,Project_Name,Client_Name,Client_Country,Project_Type,Start_Date,End_Date,Planned_Hours,Actual_Hours,Budget,Actual_Cost,Billing_Rate,Billable_Flag,Employee_Satisfaction_Score,Attrition_Flag,Exit_Reason,Performance_Rating
+EMP0001,Employee_001,UI/UX,Junior Dev,14,AWS,PRJ109,Project_39,TechCorp USA,USA,Fixed,2024-04-17,2024-12-24,1425,1016,345915,303747.05,95,No,4.8,No,NA,4.5
+EMP0002,Employee_002,Cloud,Tech Lead,5.6,AWS,PRJ708,Project_10,FinBank UK,UK,Fixed,2024-02-26,2024-10-12,567,640,227684,176789.08,62,No,4.9,No,NA,3.8
+EMP0003,Employee_003,Software Dev,Consultant,11.8,Python,PRJ870,Project_30,FinBank UK,UK,Fixed,2024-02-16,2024-10-08,572,427,322178,372529.52,88,Yes,1.6,Yes,Relocation,3.7
+EMP0004,Employee_004,Support,Senior Dev,13.7,Node.js,PRJ437,Project_40,StartupXYZ India,India,T&M,2024-04-24,2024-09-15,629,691,464182,416350.5,23,Yes,1.5,Yes,Higher Salary,3.1
+EMP0005,Employee_005,Support,Junior Dev,2.8,Azure,PRJ355,Project_39,HealthPlus UK,UK,Fixed,2024-02-13,2024-08-10,1203,1494,137064,164536.9,102,No,2.9,No,NA,4.6
+EMP0006,Employee_006,DevOps,Analyst,6.8,Java,PRJ688,Project_03,FinBank UK,UK,Fixed,2024-04-20,2024-09-13,1969,1712,398892,351310.93,80,No,3.9,No,NA,1
+EMP0007,Employee_007,QA,Tech Lead,12.7,Java,PRJ831,Project_19,RetailGiant USA,USA,Fixed,2024-06-13,2024-08-31,932,721,463333,558050.61,99,Yes,3,No,NA,2.8
+EMP0008,Employee_008,DevOps,Senior Dev,2.3,Node.js,PRJ413,Project_15,RetailGiant USA,USA,T&M,2024-05-30,2024-07-03,1368,1461,323886,254627.82,35,No,4.2,No,NA,4.8
+EMP0009,Employee_009,QA,Manager,4.5,Node.js,PRJ354,Project_33,FinBank UK,UK,Fixed,2024-02-26,2024-08-31,1848,1727,397627,463920.85,66,Yes,3.2,No,NA,3.1
+EMP0010,Employee_010,Support,Senior Dev,0.8,React,PRJ400,Project_49,TechCorp USA,USA,T&M,2024-03-05,2024-07-04,1085,997,155350,140472.46,73,Yes,2.7,No,NA,4.9
+EMP0011,Employee_011,Software Dev,Manager,9.7,Java,PRJ228,Project_16,RetailGiant USA,USA,Fixed,2024-03-24,2024-07-23,1203,1225,110074,124245.77,137,Yes,2.4,Yes,Better Opportunity,2
+EMP0012,Employee_012,QA,Senior Dev,7.6,React,PRJ763,Project_44,TechCorp USA,USA,T&M,2024-03-28,2024-10-07,283,291,196905,176143.28,147,Yes,2.1,No,NA,4.8
+EMP0013,Employee_013,Data Analytics,Architect,4.9,Python,PRJ700,Project_06,TechCorp USA,USA,Fixed,2024-03-29,2024-07-04,261,333,335399,266226.87,115,Yes,3,No,NA,2.3
+EMP0014,Employee_014,UI/UX,Manager,5.6,Azure,PRJ466,Project_32,RetailGiant USA,USA,Fixed,2024-04-10,2024-10-17,1621,1362,392324,436715.5,85,Yes,2.9,No,NA,3.9
+EMP0015,Employee_015,UI/UX,Manager,12.1,React,PRJ965,Project_05,TechCorp USA,USA,T&M,2024-04-20,2024-08-28,455,581,341247,371876.33,91,No,4.1,No,NA,1.1
+EMP0016,Employee_016,DevOps,Consultant,5.1,Salesforce,PRJ612,Project_23,StartupXYZ India,India,T&M,2024-06-01,2024-10-21,118,82,250229,240592.94,38,Yes,1.2,Yes,Further Studies,2.2
+EMP0017,Employee_017,Software Dev,Junior Dev,13.2,Python,PRJ391,Project_49,TechCorp USA,USA,T&M,2024-01-25,2024-07-11,726,605,369576,306549.67,128,Yes,4.1,No,NA,1.2
+EMP0018,Employee_018,UI/UX,Junior Dev,11.1,Salesforce,PRJ348,Project_36,HealthPlus UK,UK,Fixed,2024-04-14,2024-11-06,1328,1081,264590,317146.78,148,Yes,1.2,No,NA,3.4
+EMP0019,Employee_019,UI/UX,Analyst,7.4,Salesforce,PRJ442,Project_26,TechCorp USA,USA,Fixed,2024-04-07,2024-10-29,1197,1197,56449,57378.45,110,No,2.4,No,NA,1.2
+EMP0020,Employee_020,UI/UX,Consultant,3.1,AWS,PRJ558,Project_10,TechCorp USA,USA,Fixed,2024-04-27,2024-08-21,170,119,261221,331632.56,144,Yes,4.9,Yes,Relocation,3.9
+EMP0021,Employee_021,Support,Analyst,6.6,Azure,PRJ205,Project_42,StartupXYZ India,India,T&M,2024-03-29,2024-09-09,136,154,280409,233851.48,27,Yes,3.4,Yes,Personal,4.1
+EMP0022,Employee_022,DevOps,Analyst,8.5,Salesforce,PRJ560,Project_24,HealthPlus UK,UK,Fixed,2024-05-23,2024-09-23,943,1132,477506,357011.41,119,No,4.8,No,NA,3.3
+EMP0023,Employee_023,Support,Manager,11.6,Node.js,PRJ410,Project_16,RetailGiant USA,USA,Fixed,2024-05-08,2024-07-11,1929,1556,54040,51607.76,110,No,3.4,Yes,Further Studies,2.4
+EMP0024,Employee_024,Support,Manager,3.5,SAP,PRJ593,Project_16,FinBank UK,UK,Fixed,2024-06-22,2024-08-19,400,284,387361,278676.59,109,Yes,4.2,No,NA,2.3
+EMP0025,Employee_025,Software Dev,Architect,1.9,Python,PRJ247,Project_17,FinBank UK,UK,Fixed,2024-02-05,2024-10-02,1114,1349,262198,200570.78,61,No,3.2,Yes,Relocation,2.5
+EMP0026,Employee_026,DevOps,Analyst,5.4,Node.js,PRJ681,Project_32,StartupXYZ India,India,T&M,2024-06-10,2024-10-24,148,187,40305,52318.82,95,Yes,3.9,No,NA,5
+EMP0027,Employee_027,Cloud,Analyst,3.9,Node.js,PRJ890,Project_43,RetailGiant USA,USA,Fixed,2024-01-08,2024-07-06,1144,1289,80833,71611.07,44,No,4.2,No,NA,1.1
+EMP0028,Employee_028,Software Dev,Manager,8.9,Salesforce,PRJ421,Project_18,RetailGiant USA,USA,T&M,2024-04-09,2024-08-07,696,601,174034,138258.37,98,Yes,4.9,Yes,Personal,3
+EMP0029,Employee_029,UI/UX,Manager,9.5,Java,PRJ104,Project_11,RetailGiant USA,USA,Fixed,2024-03-04,2024-07-08,1519,1262,198338,150710.23,116,Yes,2.8,No,NA,2.3
+EMP0030,Employee_030,DevOps,Analyst,2.4,Java,PRJ945,Project_17,RetailGiant USA,USA,Fixed,2024-05-12,2024-12-07,1936,1942,30422,28090.71,139,No,1.3,Yes,Higher Salary,1.7
+EMP0031,Employee_031,Cloud,Analyst,11.7,React,PRJ599,Project_34,FinBank UK,UK,T&M,2024-03-11,2024-10-31,1138,808,186587,138385.95,123,No,4.2,Yes,Personal,3.8
+EMP0032,Employee_032,Support,Architect,1,AWS,PRJ410,Project_20,StartupXYZ India,India,Fixed,2024-01-04,2024-08-05,1240,1258,429250,350362.68,41,Yes,3.4,No,NA,2.9
+EMP0033,Employee_033,Software Dev,Tech Lead,2.8,Azure,PRJ142,Project_15,HealthPlus UK,UK,Fixed,2024-01-29,2024-11-12,631,796,301148,237757.9,120,Yes,2.8,Yes,Better Opportunity,2
+EMP0034,Employee_034,Data Analytics,Junior Dev,10.6,Salesforce,PRJ187,Project_02,StartupXYZ India,India,T&M,2024-04-26,2024-07-22,878,1003,340982,358814.08,51,Yes,2,Yes,Personal,3.4
+EMP0035,Employee_035,QA,Consultant,8.7,SAP,PRJ519,Project_36,FinBank UK,UK,Fixed,2024-03-15,2024-07-15,1624,1263,445588,339164.39,52,Yes,3.7,No,NA,4.8
+EMP0036,Employee_036,UI/UX,Junior Dev,14.5,AWS,PRJ109,Project_22,StartupXYZ India,India,Fixed,2024-06-27,2024-12-26,551,519,51152,44427.67,70,Yes,4.8,No,NA,1.4
+EMP0037,Employee_037,Software Dev,Analyst,3.9,AWS,PRJ911,Project_04,HealthPlus UK,UK,T&M,2024-04-26,2024-07-24,744,845,70735,68397.96,20,Yes,3,No,NA,2.8
+EMP0038,Employee_038,Support,Manager,4.8,AWS,PRJ422,Project_31,RetailGiant USA,USA,Fixed,2024-02-09,2024-10-24,1774,2271,250528,254521.48,37,Yes,4.2,No,NA,1.4
+EMP0039,Employee_039,QA,Tech Lead,5.3,SAP,PRJ103,Project_39,HealthPlus UK,UK,Fixed,2024-03-04,2024-12-01,1067,1360,150925,177236.61,136,Yes,4.4,Yes,Better Opportunity,1.9
+EMP0040,Employee_040,Cloud,Manager,10.8,SAP,PRJ459,Project_15,FinBank UK,UK,Fixed,2024-06-28,2024-12-11,905,928,56641,45963.79,123,Yes,2.5,Yes,Personal,1
+EMP0041,Employee_041,QA,Manager,1.2,Python,PRJ269,Project_21,RetailGiant USA,USA,Fixed,2024-04-11,2024-07-08,1101,1176,136581,102784.51,29,Yes,3.4,Yes,Further Studies,5
+EMP0042,Employee_042,Support,Analyst,14,AWS,PRJ620,Project_17,StartupXYZ India,India,Fixed,2024-04-29,2024-07-02,143,107,157271,151685.9,122,No,3.2,No,NA,2.2
+EMP0043,Employee_043,Support,Architect,13.5,Node.js,PRJ769,Project_31,HealthPlus UK,UK,T&M,2024-05-26,2024-09-16,604,629,433689,331301.19,33,No,1.3,No,NA,1
+EMP0044,Employee_044,Data Analytics,Junior Dev,9.1,Salesforce,PRJ952,Project_04,TechCorp USA,USA,Fixed,2024-03-12,2024-12-03,1756,1642,437752,566511.61,29,No,4.7,No,NA,1.4
+EMP0045,Employee_045,Cloud,Senior Dev,0.8,Node.js,PRJ781,Project_43,RetailGiant USA,USA,T&M,2024-06-18,2024-11-20,1988,1581,150535,131261.76,42,Yes,2.7,No,NA,4.4
+EMP0046,Employee_046,UI/UX,Senior Dev,11.1,Azure,PRJ349,Project_01,FinBank UK,UK,Fixed,2024-03-20,2024-12-04,1536,1425,206097,260521.84,78,Yes,1.1,No,NA,4.1
+EMP0047,Employee_047,Data Analytics,Consultant,10.6,SAP,PRJ341,Project_07,StartupXYZ India,India,T&M,2024-02-25,2024-11-21,1299,1506,104430,97207.21,123,Yes,3.9,No,NA,3.9
+EMP0048,Employee_048,Support,Tech Lead,13.1,Salesforce,PRJ978,Project_22,StartupXYZ India,India,Fixed,2024-06-08,2024-08-07,1663,1601,374102,466813.14,89,No,1.8,No,NA,4.7
+EMP0049,Employee_049,DevOps,Senior Dev,13.1,Python,PRJ883,Project_31,RetailGiant USA,USA,T&M,2024-04-22,2024-07-07,1449,1845,213434,220273.47,43,Yes,4.8,Yes,Further Studies,5
+EMP0050,Employee_050,Data Analytics,Senior Dev,0.6,Azure,PRJ125,Project_26,TechCorp USA,USA,Fixed,2024-04-04,2024-09-04,845,877,346112,263308.47,78,Yes,1.5,No,NA,3.4
+EMP0051,Employee_051,QA,Manager,6.2,Java,PRJ967,Project_15,RetailGiant USA,USA,Fixed,2024-03-05,2024-12-15,920,857,439711,464122.78,134,Yes,3.7,Yes,Higher Salary,4.8
+EMP0052,Employee_052,DevOps,Architect,7.4,Java,PRJ437,Project_02,FinBank UK,UK,Fixed,2024-04-09,2024-07-12,1820,1476,389741,399330.13,121,No,2.4,No,NA,4.9
+EMP0053,Employee_053,Software Dev,Architect,0.6,SAP,PRJ297,Project_36,HealthPlus UK,UK,T&M,2024-03-05,2024-12-05,1465,1107,420922,536697.44,48,Yes,2.7,Yes,Personal,4.3
+EMP0054,Employee_054,Support,Analyst,1.7,Java,PRJ882,Project_44,HealthPlus UK,UK,T&M,2024-05-02,2024-07-31,279,254,10632,7741.45,55,Yes,3.7,No,NA,4.4
+EMP0055,Employee_055,UI/UX,Senior Dev,3.4,Salesforce,PRJ976,Project_24,HealthPlus UK,UK,T&M,2024-04-17,2024-07-16,546,419,42171,36191.9,87,Yes,4.8,No,NA,3.7
+EMP0056,Employee_056,UI/UX,Manager,9.3,AWS,PRJ224,Project_31,StartupXYZ India,India,T&M,2024-01-17,2024-12-09,358,268,414802,537081.06,54,Yes,4,Yes,Higher Salary,2.6
+EMP0057,Employee_057,UI/UX,Analyst,12.5,Python,PRJ523,Project_30,RetailGiant USA,USA,T&M,2024-03-11,2024-07-02,418,340,226772,194361.53,49,No,3,No,NA,2
+EMP0058,Employee_058,Cloud,Consultant,12.6,Salesforce,PRJ924,Project_30,StartupXYZ India,India,Fixed,2024-02-14,2024-10-04,401,337,419758,439252.86,37,Yes,1.6,No,NA,4.9
+EMP0059,Employee_059,Support,Tech Lead,13.4,AWS,PRJ408,Project_44,HealthPlus UK,UK,T&M,2024-03-04,2024-12-07,592,650,315750,270288.96,102,Yes,4.6,No,NA,2.3
+EMP0060,Employee_060,Software Dev,Manager,6.7,AWS,PRJ124,Project_39,FinBank UK,UK,Fixed,2024-03-23,2024-11-19,1540,1825,294231,282757.1,48,Yes,4.9,Yes,Further Studies,2.2
+EMP0061,Employee_061,Software Dev,Senior Dev,7.4,Azure,PRJ690,Project_07,StartupXYZ India,India,Fixed,2024-01-05,2024-12-28,1822,1958,176337,197759.88,34,No,3.1,No,NA,4.1
+EMP0062,Employee_062,Cloud,Tech Lead,11.1,AWS,PRJ174,Project_35,FinBank UK,UK,Fixed,2024-02-14,2024-12-05,899,870,255346,204526.86,125,Yes,1.1,No,NA,2.6
+EMP0063,Employee_063,Cloud,Analyst,5.1,Azure,PRJ600,Project_38,StartupXYZ India,India,T&M,2024-03-29,2024-07-16,1447,1646,319034,332007.31,145,No,4.9,No,NA,3.9
+EMP0064,Employee_064,Data Analytics,Manager,8.7,Java,PRJ323,Project_46,FinBank UK,UK,T&M,2024-02-07,2024-09-27,1417,1826,86571,73837.58,135,Yes,2.9,Yes,Further Studies,1.3
+EMP0065,Employee_065,DevOps,Junior Dev,14.4,Azure,PRJ507,Project_16,TechCorp USA,USA,Fixed,2024-05-10,2024-12-25,1048,1174,64564,49200.74,113,Yes,1.1,No,NA,1.8
+EMP0066,Employee_066,Support,Junior Dev,2.6,Java,PRJ583,Project_44,FinBank UK,UK,Fixed,2024-01-22,2024-08-11,440,437,344230,356337.15,150,No,4.4,No,NA,4.8
+EMP0067,Employee_067,Software Dev,Analyst,9.7,SAP,PRJ965,Project_02,TechCorp USA,USA,T&M,2024-02-05,2024-11-15,570,617,195148,225883.42,94,Yes,2.9,No,NA,1.7
+EMP0068,Employee_068,UI/UX,Manager,7.3,Azure,PRJ167,Project_11,FinBank UK,UK,T&M,2024-03-31,2024-09-21,1799,1401,239037,265122.4,61,No,4,No,NA,3.8
+EMP0069,Employee_069,Support,Tech Lead,1.8,React,PRJ231,Project_28,StartupXYZ India,India,Fixed,2024-02-23,2024-12-22,1552,1105,19605,24980.63,40,Yes,2.2,No,NA,1.5
+EMP0070,Employee_070,Cloud,Junior Dev,1.2,Node.js,PRJ785,Project_18,StartupXYZ India,India,Fixed,2024-06-12,2024-09-07,529,584,15628,20279.2,54,Yes,1.6,No,NA,2.3
+EMP0071,Employee_071,Support,Analyst,3.4,Python,PRJ992,Project_27,TechCorp USA,USA,T&M,2024-02-26,2024-07-30,1035,1062,433036,356313.64,49,No,4.8,No,NA,1.6
+EMP0072,Employee_072,QA,Tech Lead,6.6,AWS,PRJ165,Project_02,RetailGiant USA,USA,T&M,2024-01-26,2024-10-18,1942,2232,330977,308240.26,140,Yes,4.4,Yes,Further Studies,2
+EMP0073,Employee_073,Data Analytics,Manager,4.3,AWS,PRJ246,Project_38,TechCorp USA,USA,T&M,2024-06-26,2024-08-11,1050,739,26057,28961.43,93,Yes,1.4,No,NA,3.2
+EMP0074,Employee_074,DevOps,Analyst,8,Salesforce,PRJ201,Project_47,HealthPlus UK,UK,Fixed,2024-02-01,2024-09-21,1300,1041,165041,125024.43,111,Yes,3.6,No,NA,4.3
+EMP0075,Employee_075,QA,Analyst,12.6,Node.js,PRJ566,Project_42,TechCorp USA,USA,T&M,2024-06-11,2024-09-14,1550,1424,205285,163381.88,82,Yes,4.9,No,NA,3.6
+EMP0076,Employee_076,DevOps,Tech Lead,3.9,Java,PRJ890,Project_07,FinBank UK,UK,Fixed,2024-01-30,2024-09-21,1986,1945,398062,292320.64,98,No,2.4,No,NA,1.7
+EMP0077,Employee_077,Cloud,Manager,11.8,Java,PRJ326,Project_06,StartupXYZ India,India,T&M,2024-03-11,2024-11-12,1773,1905,177426,178122.47,131,Yes,3.2,No,NA,2.8
+EMP0078,Employee_078,Software Dev,Architect,9,AWS,PRJ946,Project_09,HealthPlus UK,UK,Fixed,2024-06-04,2024-08-24,587,420,143550,178732.03,111,Yes,4.3,No,NA,2.9
+EMP0079,Employee_079,Data Analytics,Manager,5.8,Azure,PRJ555,Project_32,StartupXYZ India,India,Fixed,2024-01-28,2024-12-20,1538,1412,372878,432874.21,113,Yes,4.2,Yes,Higher Salary,2.3
+EMP0080,Employee_080,QA,Architect,11.9,Python,PRJ189,Project_25,RetailGiant USA,USA,Fixed,2024-05-20,2024-11-21,1313,1480,127178,90422.65,98,Yes,1.6,No,NA,2.6
+EMP0081,Employee_081,Software Dev,Architect,14.7,Node.js,PRJ306,Project_25,FinBank UK,UK,T&M,2024-01-16,2024-06-30,1838,2016,288190,300370.09,29,Yes,4.9,No,NA,3.6
+EMP0082,Employee_082,DevOps,Consultant,13.8,Node.js,PRJ107,Project_44,StartupXYZ India,India,T&M,2024-03-12,2024-10-06,500,489,250389,240266.72,38,Yes,4.6,No,NA,3.5
+EMP0083,Employee_083,UI/UX,Manager,13.6,Java,PRJ901,Project_15,RetailGiant USA,USA,Fixed,2024-05-13,2024-12-19,1616,1250,402010,340844.2,142,Yes,4.6,No,NA,1.4
+EMP0084,Employee_084,UI/UX,Junior Dev,7.5,AWS,PRJ894,Project_16,StartupXYZ India,India,T&M,2024-04-11,2024-12-24,1207,1375,364746,332524.16,57,Yes,3,No,NA,4.4
+EMP0085,Employee_085,DevOps,Architect,4,AWS,PRJ900,Project_18,StartupXYZ India,India,T&M,2024-04-28,2024-12-21,1557,2020,480047,499769.12,21,No,2.1,No,NA,3
+EMP0086,Employee_086,UI/UX,Manager,13.6,React,PRJ494,Project_41,FinBank UK,UK,T&M,2024-03-13,2024-12-13,1450,1272,465893,549745.6,90,Yes,3.3,Yes,Higher Salary,2.8
+EMP0087,Employee_087,Cloud,Analyst,4.8,Azure,PRJ741,Project_41,StartupXYZ India,India,Fixed,2024-04-28,2024-12-01,1025,1080,307819,235627.78,120,Yes,3.3,No,NA,2
+EMP0088,Employee_088,QA,Manager,10.7,Python,PRJ487,Project_31,HealthPlus UK,UK,T&M,2024-02-25,2024-09-15,1272,1329,200774,201530.7,100,No,4.7,No,NA,4
+EMP0089,Employee_089,QA,Consultant,10.3,Java,PRJ757,Project_41,FinBank UK,UK,Fixed,2024-05-05,2024-11-06,1101,985,39773,51611.32,45,No,1.4,No,NA,4.8
+EMP0090,Employee_090,DevOps,Analyst,8.3,Azure,PRJ233,Project_36,HealthPlus UK,UK,T&M,2024-06-23,2024-07-10,894,785,87915,71602.23,148,Yes,4.6,No,NA,1.1
+EMP0091,Employee_091,UI/UX,Consultant,11.1,Azure,PRJ928,Project_08,RetailGiant USA,USA,T&M,2024-06-08,2024-10-22,559,435,411069,534310.31,55,No,2.8,No,NA,1.8
+EMP0092,Employee_092,Support,Analyst,2.8,Azure,PRJ134,Project_38,HealthPlus UK,UK,Fixed,2024-04-01,2024-09-17,1316,1627,38117,30990.06,52,Yes,1.3,No,NA,2.9
+EMP0093,Employee_093,Cloud,Manager,5.8,AWS,PRJ371,Project_24,TechCorp USA,USA,T&M,2024-04-30,2024-10-07,1523,1528,31968,39894.41,58,Yes,2.9,Yes,Better Opportunity,2.6
+EMP0094,Employee_094,Support,Manager,11.6,Azure,PRJ130,Project_29,TechCorp USA,USA,T&M,2024-01-27,2024-08-07,320,365,305550,259585.78,43,Yes,4,No,NA,3.7
+EMP0095,Employee_095,Cloud,Consultant,2.9,Java,PRJ362,Project_24,RetailGiant USA,USA,T&M,2024-03-23,2024-09-24,406,516,293650,319921.24,26,Yes,2.7,No,NA,2.2
+EMP0096,Employee_096,DevOps,Architect,8.9,AWS,PRJ912,Project_14,StartupXYZ India,India,Fixed,2024-06-14,2024-08-03,204,158,223851,185202.59,105,No,2.9,Yes,Further Studies,3
+EMP0097,Employee_097,Data Analytics,Analyst,6.4,Salesforce,PRJ838,Project_43,FinBank UK,UK,Fixed,2024-04-18,2024-11-20,492,639,389151,412641.56,87,No,1.7,Yes,Better Opportunity,1.1
+EMP0098,Employee_098,Support,Analyst,3.2,Java,PRJ542,Project_42,HealthPlus UK,UK,T&M,2024-01-07,2024-12-30,1504,1240,88468,65222.27,133,Yes,2.6,No,NA,3.7
+EMP0099,Employee_099,Software Dev,Manager,1.5,Salesforce,PRJ713,Project_31,StartupXYZ India,India,Fixed,2024-01-30,2024-10-04,797,904,66525,53458.56,34,Yes,2,No,NA,4.4
+EMP0100,Employee_100,UI/UX,Analyst,3.1,React,PRJ691,Project_25,TechCorp USA,USA,Fixed,2024-01-29,2024-06-29,251,316,350290,285900.55,80,Yes,4.4,No,NA,3.9
+EMP0101,Employee_101,Cloud,Analyst,12.8,Node.js,PRJ768,Project_30,FinBank UK,UK,T&M,2024-03-12,2024-08-14,559,403,261859,196662.34,64,No,4.6,Yes,Further Studies,4.5
+EMP0102,Employee_102,Data Analytics,Senior Dev,11.8,React,PRJ262,Project_45,TechCorp USA,USA,Fixed,2024-01-21,2024-08-10,746,668,335290,347292,145,No,4.7,No,NA,4.6
+EMP0103,Employee_103,UI/UX,Tech Lead,6.6,SAP,PRJ518,Project_01,FinBank UK,UK,T&M,2024-06-26,2024-07-03,1281,1462,37795,46900.65,86,No,3.3,No,NA,2.5
+EMP0104,Employee_104,Data Analytics,Consultant,9.9,AWS,PRJ580,Project_32,StartupXYZ India,India,T&M,2024-01-04,2024-10-20,1914,1882,240666,190939.33,85,Yes,1.9,No,NA,2.4
+EMP0105,Employee_105,Software Dev,Senior Dev,0.6,SAP,PRJ256,Project_35,HealthPlus UK,UK,T&M,2024-02-09,2024-10-09,1527,1783,327716,282999.4,101,No,4.5,No,NA,2.8
+EMP0106,Employee_106,Software Dev,Manager,8.1,Java,PRJ101,Project_22,RetailGiant USA,USA,Fixed,2024-05-06,2024-07-18,1729,1489,278775,328393.98,57,No,4,Yes,Personal,3.8
+EMP0107,Employee_107,Data Analytics,Tech Lead,14.2,SAP,PRJ990,Project_37,HealthPlus UK,UK,T&M,2024-06-11,2024-07-15,168,159,213000,242219.65,121,Yes,4.4,No,NA,1.3
+EMP0108,Employee_108,UI/UX,Consultant,2.6,AWS,PRJ185,Project_26,RetailGiant USA,USA,Fixed,2024-01-22,2024-11-23,1293,1441,110090,136350.89,64,Yes,2.4,No,NA,3.2
+EMP0109,Employee_109,UI/UX,Analyst,9.3,Salesforce,PRJ597,Project_07,TechCorp USA,USA,T&M,2024-02-13,2024-07-09,1363,1523,366994,314519.27,25,No,1.5,Yes,Further Studies,4.7
+EMP0110,Employee_110,DevOps,Tech Lead,7.3,SAP,PRJ711,Project_25,StartupXYZ India,India,T&M,2024-06-28,2024-08-06,311,402,38738,38070.83,93,Yes,2.7,No,NA,1.9
+EMP0111,Employee_111,Software Dev,Consultant,9.9,SAP,PRJ152,Project_07,TechCorp USA,USA,T&M,2024-05-22,2024-09-29,701,701,53640,59101.33,103,Yes,4.3,Yes,Better Opportunity,1.1
+EMP0112,Employee_112,UI/UX,Consultant,11,React,PRJ133,Project_06,FinBank UK,UK,Fixed,2024-06-21,2024-08-12,124,133,35200,27778.37,93,No,4.7,No,NA,3.7
+EMP0113,Employee_113,UI/UX,Senior Dev,9.5,Salesforce,PRJ429,Project_39,RetailGiant USA,USA,T&M,2024-03-20,2024-09-02,1913,2302,201089,249889.34,141,Yes,3.6,No,NA,3.7
+EMP0114,Employee_114,QA,Architect,12.6,Node.js,PRJ551,Project_19,TechCorp USA,USA,Fixed,2024-06-23,2024-09-30,442,486,89349,83107.68,86,Yes,2.6,Yes,Better Opportunity,2.1
+EMP0115,Employee_115,Support,Architect,13.6,SAP,PRJ488,Project_35,StartupXYZ India,India,Fixed,2024-06-22,2024-10-03,484,460,250431,316158.91,78,No,2.6,No,NA,4.2
+EMP0116,Employee_116,DevOps,Tech Lead,11.6,Salesforce,PRJ628,Project_33,RetailGiant USA,USA,Fixed,2024-03-11,2024-09-06,109,116,190095,189684.91,42,No,1.2,No,NA,3.4
+EMP0117,Employee_117,Data Analytics,Tech Lead,9,AWS,PRJ438,Project_02,RetailGiant USA,USA,T&M,2024-02-23,2024-08-14,171,184,40572,33547.5,106,No,1.2,No,NA,2.1
+EMP0118,Employee_118,UI/UX,Analyst,4.2,Azure,PRJ919,Project_45,TechCorp USA,USA,Fixed,2024-05-16,2024-09-01,1666,1415,176376,138845.71,132,Yes,1.4,Yes,Further Studies,4.6
+EMP0119,Employee_119,Data Analytics,Junior Dev,10.3,Node.js,PRJ153,Project_43,StartupXYZ India,India,T&M,2024-06-26,2024-08-18,1937,2402,329652,340313.54,102,Yes,2.4,No,NA,1.3
+EMP0120,Employee_120,QA,Analyst,9.9,SAP,PRJ778,Project_09,FinBank UK,UK,Fixed,2024-03-26,2024-09-21,1519,1934,288854,203638.74,30,Yes,2.7,No,NA,3.6
+EMP0121,Employee_121,Data Analytics,Consultant,4.8,AWS,PRJ723,Project_47,RetailGiant USA,USA,T&M,2024-04-24,2024-09-15,1792,1589,441298,461009.81,143,Yes,1.3,No,NA,1.6
+EMP0122,Employee_122,Support,Senior Dev,6.1,Python,PRJ368,Project_28,HealthPlus UK,UK,Fixed,2024-04-27,2024-08-14,703,581,316118,268303.25,136,Yes,4.7,No,NA,3.9
+EMP0123,Employee_123,DevOps,Analyst,7.7,SAP,PRJ703,Project_35,HealthPlus UK,UK,T&M,2024-04-30,2024-09-21,1196,885,433977,374458.92,56,Yes,4.8,No,NA,2.8
+EMP0124,Employee_124,Cloud,Consultant,4.8,Node.js,PRJ525,Project_01,StartupXYZ India,India,T&M,2024-06-03,2024-10-18,774,803,145257,178678.69,95,Yes,1.5,No,NA,2.1
+EMP0125,Employee_125,Software Dev,Senior Dev,3.1,AWS,PRJ961,Project_34,TechCorp USA,USA,T&M,2024-03-16,2024-10-29,1029,1060,357858,463292.92,73,Yes,3.1,No,NA,4.6
+EMP0126,Employee_126,UI/UX,Senior Dev,9.3,Java,PRJ930,Project_30,FinBank UK,UK,Fixed,2024-06-17,2024-10-14,964,1031,223449,172345.56,37,Yes,2.6,No,NA,3.2
+EMP0127,Employee_127,UI/UX,Tech Lead,5.4,Node.js,PRJ354,Project_04,HealthPlus UK,UK,Fixed,2024-04-22,2024-12-18,616,696,25862,31547.33,79,Yes,3.8,No,NA,1.1
+EMP0128,Employee_128,Cloud,Architect,3.1,Python,PRJ918,Project_07,HealthPlus UK,UK,Fixed,2024-06-09,2024-07-18,1912,2345,45340,46343.71,61,Yes,4.5,No,NA,2.8
+EMP0129,Employee_129,Data Analytics,Junior Dev,3.5,Azure,PRJ813,Project_20,HealthPlus UK,UK,T&M,2024-06-08,2024-11-06,1530,1085,267709,274861.78,67,No,1.2,No,NA,4
+EMP0130,Employee_130,UI/UX,Analyst,5.3,React,PRJ446,Project_09,StartupXYZ India,India,Fixed,2024-02-13,2024-12-15,921,1029,131449,119905.63,103,Yes,1.1,Yes,Personal,3.1
+EMP0131,Employee_131,Support,Tech Lead,10.7,React,PRJ649,Project_33,StartupXYZ India,India,Fixed,2024-06-26,2024-11-12,880,1059,316184,229202.47,100,Yes,3.9,No,NA,3.4
+EMP0132,Employee_132,DevOps,Analyst,14.9,SAP,PRJ193,Project_47,StartupXYZ India,India,Fixed,2024-02-23,2024-08-08,1019,749,182143,144342.73,82,Yes,1.7,No,NA,4.4
+EMP0133,Employee_133,Data Analytics,Senior Dev,13.8,Salesforce,PRJ654,Project_45,StartupXYZ India,India,T&M,2024-02-17,2024-10-27,525,588,210086,212979.42,95,Yes,4,No,NA,4.7
+EMP0134,Employee_134,Cloud,Architect,2.6,AWS,PRJ548,Project_06,StartupXYZ India,India,Fixed,2024-04-14,2024-08-14,1047,1119,25235,28601.98,58,Yes,2.9,No,NA,5
+EMP0135,Employee_135,Cloud,Consultant,10.2,React,PRJ979,Project_29,FinBank UK,UK,T&M,2024-06-13,2024-12-28,566,509,149439,161788.05,108,Yes,4.6,No,NA,2
+EMP0136,Employee_136,Cloud,Consultant,11.6,React,PRJ274,Project_36,HealthPlus UK,UK,T&M,2024-04-24,2024-07-04,214,214,183325,151752.64,111,No,1.5,No,NA,1.2
+EMP0137,Employee_137,DevOps,Consultant,5,Node.js,PRJ692,Project_29,StartupXYZ India,India,T&M,2024-06-15,2024-07-08,434,433,31893,36931.5,59,Yes,4.6,No,NA,2.4
+EMP0138,Employee_138,Data Analytics,Architect,4.8,SAP,PRJ338,Project_34,RetailGiant USA,USA,T&M,2024-03-28,2024-10-04,312,324,259915,333377.27,37,Yes,4.1,No,NA,2.7
+EMP0139,Employee_139,DevOps,Architect,9.3,Python,PRJ806,Project_11,FinBank UK,UK,T&M,2024-05-19,2024-11-30,708,637,279955,308712.52,87,No,1.8,No,NA,4
+EMP0140,Employee_140,QA,Tech Lead,5.3,AWS,PRJ263,Project_27,StartupXYZ India,India,T&M,2024-01-09,2024-10-31,1194,1311,491306,547159.17,27,Yes,2,No,NA,4.6
+EMP0141,Employee_141,DevOps,Analyst,6.5,Java,PRJ810,Project_08,FinBank UK,UK,Fixed,2024-05-09,2024-11-03,1402,1549,321762,287596.85,35,Yes,1.2,No,NA,4.8
+EMP0142,Employee_142,Support,Junior Dev,1.8,Java,PRJ653,Project_44,StartupXYZ India,India,Fixed,2024-01-30,2024-09-30,1654,1541,85382,87651.54,83,Yes,1.2,No,NA,3.2
+EMP0143,Employee_143,Data Analytics,Senior Dev,12.4,SAP,PRJ172,Project_21,HealthPlus UK,UK,T&M,2024-04-03,2024-12-01,523,600,156907,188699.99,70,Yes,1.5,No,NA,2.8
+EMP0144,Employee_144,QA,Tech Lead,6.8,Java,PRJ450,Project_21,StartupXYZ India,India,Fixed,2024-06-25,2024-12-07,1371,1335,252577,282406.99,95,Yes,2.4,No,NA,2.4
+EMP0145,Employee_145,Software Dev,Analyst,6.1,Node.js,PRJ739,Project_23,RetailGiant USA,USA,Fixed,2024-06-25,2024-09-17,1253,1604,341109,255759.2,49,Yes,4.6,No,NA,2.5
+EMP0146,Employee_146,Data Analytics,Consultant,2.4,Azure,PRJ198,Project_05,TechCorp USA,USA,Fixed,2024-01-24,2024-09-13,1847,2043,85189,100983.3,35,No,3,No,NA,3.6
+EMP0147,Employee_147,Data Analytics,Consultant,12.6,Salesforce,PRJ883,Project_40,FinBank UK,UK,T&M,2024-04-28,2024-08-19,866,1109,164872,185698.55,101,Yes,1.2,Yes,Better Opportunity,4.2
+EMP0148,Employee_148,Support,Senior Dev,7.9,AWS,PRJ999,Project_19,TechCorp USA,USA,Fixed,2024-06-28,2024-08-12,1686,1740,84184,74091.29,34,Yes,2,No,NA,3.7
+EMP0149,Employee_149,Software Dev,Tech Lead,8.9,React,PRJ462,Project_31,StartupXYZ India,India,T&M,2024-05-29,2024-11-21,1682,1623,132448,115724.71,25,Yes,3.9,Yes,Better Opportunity,1.7
+EMP0150,Employee_150,Software Dev,Junior Dev,10.8,Python,PRJ900,Project_08,HealthPlus UK,UK,Fixed,2024-03-18,2024-08-27,678,718,328652,410111.32,42,Yes,2.3,No,NA,4.6
+EMP0151,Employee_151,Software Dev,Senior Dev,4.3,SAP,PRJ344,Project_19,HealthPlus UK,UK,Fixed,2024-01-30,2024-07-28,1128,1164,257983,191215.56,74,No,2.7,No,NA,4.6
+EMP0152,Employee_152,DevOps,Junior Dev,2.7,React,PRJ732,Project_34,RetailGiant USA,USA,Fixed,2024-05-22,2024-11-15,1683,1347,334663,251595.44,72,Yes,2.2,No,NA,1.2
+EMP0153,Employee_153,Software Dev,Consultant,9.8,Java,PRJ625,Project_10,StartupXYZ India,India,Fixed,2024-06-20,2024-08-23,1556,1160,313245,290662.44,125,Yes,1.5,No,NA,1.6
+EMP0154,Employee_154,Software Dev,Tech Lead,3.3,Python,PRJ595,Project_06,HealthPlus UK,UK,Fixed,2024-06-16,2024-08-23,903,843,59335,57279.71,58,Yes,3.5,No,NA,4.5
+EMP0155,Employee_155,Software Dev,Senior Dev,10.5,Node.js,PRJ900,Project_11,TechCorp USA,USA,Fixed,2024-03-04,2024-09-06,1947,2515,58361,62506.29,149,No,4.3,No,NA,1.1
+EMP0156,Employee_156,QA,Junior Dev,14.3,SAP,PRJ564,Project_23,HealthPlus UK,UK,Fixed,2024-04-01,2024-12-27,639,750,202874,194335.93,146,Yes,2.9,No,NA,4.6
+EMP0157,Employee_157,UI/UX,Analyst,13,Python,PRJ195,Project_42,HealthPlus UK,UK,Fixed,2024-03-21,2024-12-22,1040,883,128538,95779.44,116,Yes,4.3,Yes,Further Studies,2.6
+EMP0158,Employee_158,Software Dev,Tech Lead,14.7,AWS,PRJ512,Project_39,TechCorp USA,USA,T&M,2024-04-11,2024-12-21,163,138,408297,495729.62,117,Yes,4.5,Yes,Personal,2.7
+EMP0159,Employee_159,DevOps,Architect,4.1,Java,PRJ900,Project_02,RetailGiant USA,USA,T&M,2024-01-17,2024-09-07,1565,1235,411535,349266.11,138,Yes,4,Yes,Better Opportunity,3
+EMP0160,Employee_160,QA,Tech Lead,8.6,Node.js,PRJ738,Project_42,HealthPlus UK,UK,Fixed,2024-03-03,2024-10-26,505,480,105737,87732.27,75,Yes,3.1,No,NA,2.4
+EMP0161,Employee_161,Support,Consultant,5.4,React,PRJ802,Project_24,StartupXYZ India,India,T&M,2024-03-11,2024-09-28,1599,1124,450784,471818.43,67,Yes,2.3,No,NA,4.4
+EMP0162,Employee_162,Support,Senior Dev,5.1,Node.js,PRJ538,Project_32,StartupXYZ India,India,Fixed,2024-05-20,2024-12-27,1882,1547,120925,129646.56,49,No,4.7,Yes,Further Studies,4.9
+EMP0163,Employee_163,QA,Analyst,3.3,AWS,PRJ523,Project_27,HealthPlus UK,UK,T&M,2024-05-12,2024-10-17,1898,1722,86215,109640.35,24,Yes,2.6,No,NA,3.8
+EMP0164,Employee_164,QA,Tech Lead,11.2,React,PRJ688,Project_29,HealthPlus UK,UK,T&M,2024-04-12,2024-07-08,1557,1361,61519,57565.6,145,Yes,1.9,No,NA,1.2
+EMP0165,Employee_165,Cloud,Analyst,2.3,Python,PRJ823,Project_20,HealthPlus UK,UK,Fixed,2024-06-28,2024-10-04,833,845,168287,118292.72,46,Yes,1.3,No,NA,2
+EMP0166,Employee_166,Software Dev,Junior Dev,13.4,React,PRJ509,Project_48,HealthPlus UK,UK,Fixed,2024-03-26,2024-09-24,248,279,292599,271744.15,46,Yes,4.4,No,NA,4.7
+EMP0167,Employee_167,Support,Tech Lead,5.4,Node.js,PRJ611,Project_29,StartupXYZ India,India,Fixed,2024-03-09,2024-07-05,1391,1249,208749,267785,86,Yes,2,No,NA,3
+EMP0168,Employee_168,Software Dev,Junior Dev,3.4,Node.js,PRJ107,Project_06,HealthPlus UK,UK,Fixed,2024-06-02,2024-10-12,1896,1885,341288,379372.79,91,Yes,2.6,No,NA,2.4
+EMP0169,Employee_169,UI/UX,Junior Dev,9.8,SAP,PRJ861,Project_14,FinBank UK,UK,T&M,2024-05-15,2024-08-27,381,304,270331,315006.38,76,No,2.1,No,NA,2.9
+EMP0170,Employee_170,Software Dev,Architect,8.3,Python,PRJ516,Project_44,RetailGiant USA,USA,T&M,2024-01-09,2024-11-15,1447,1816,468623,343600.42,103,No,3.3,Yes,Better Opportunity,4.9
+EMP0171,Employee_171,QA,Senior Dev,1.5,SAP,PRJ932,Project_30,StartupXYZ India,India,Fixed,2024-01-04,2024-12-22,943,925,458860,566670.88,24,Yes,3.5,No,NA,4.3
+EMP0172,Employee_172,QA,Tech Lead,6.6,Salesforce,PRJ538,Project_37,RetailGiant USA,USA,T&M,2024-03-16,2024-08-03,1759,2228,496514,517490.47,105,Yes,3.4,No,NA,4.2
+EMP0173,Employee_173,Software Dev,Junior Dev,12.6,Salesforce,PRJ860,Project_46,TechCorp USA,USA,Fixed,2024-06-14,2024-10-21,1619,1902,375271,369862.4,110,No,1.7,No,NA,2.9
+EMP0174,Employee_174,Support,Manager,3.5,Node.js,PRJ664,Project_15,TechCorp USA,USA,Fixed,2024-04-18,2024-09-08,726,744,314065,344641.87,92,Yes,2.3,No,NA,1.7
+EMP0175,Employee_175,Cloud,Consultant,13.7,AWS,PRJ751,Project_42,TechCorp USA,USA,T&M,2024-04-24,2024-10-10,1153,1427,265020,299753.29,31,Yes,2.9,Yes,Better Opportunity,2.8
+EMP0176,Employee_176,UI/UX,Consultant,11.2,Node.js,PRJ420,Project_46,FinBank UK,UK,T&M,2024-02-08,2024-11-14,590,433,459018,395834.37,97,Yes,4.4,Yes,Higher Salary,3.8
+EMP0177,Employee_177,Software Dev,Consultant,9.8,Node.js,PRJ149,Project_09,StartupXYZ India,India,T&M,2024-03-24,2024-10-03,1089,935,363633,371242.06,140,Yes,3.3,No,NA,3.6
+EMP0178,Employee_178,Software Dev,Consultant,4.5,AWS,PRJ174,Project_47,HealthPlus UK,UK,Fixed,2024-05-04,2024-11-23,1034,1206,60256,72112.17,107,Yes,4.5,Yes,Better Opportunity,4.3
+EMP0179,Employee_179,DevOps,Architect,2.2,Node.js,PRJ161,Project_49,TechCorp USA,USA,T&M,2024-04-02,2024-09-14,953,789,49880,43915.25,122,Yes,3.6,No,NA,2.5
+EMP0180,Employee_180,QA,Analyst,3,SAP,PRJ569,Project_01,HealthPlus UK,UK,Fixed,2024-04-30,2024-11-19,1671,1478,467788,585196.99,74,Yes,5,No,NA,2
+EMP0181,Employee_181,Support,Junior Dev,8.6,React,PRJ873,Project_11,StartupXYZ India,India,T&M,2024-05-03,2024-11-22,347,403,87086,78759.03,64,Yes,4,Yes,Personal,1.6
+EMP0182,Employee_182,Cloud,Architect,1.4,Azure,PRJ570,Project_05,StartupXYZ India,India,T&M,2024-03-19,2024-10-10,937,1070,225972,256886.72,57,No,4.4,No,NA,4.6
+EMP0183,Employee_183,Support,Architect,11.5,Java,PRJ557,Project_03,TechCorp USA,USA,Fixed,2024-05-04,2024-11-09,1469,1570,80043,102859.65,20,Yes,4,No,NA,3.7
+EMP0184,Employee_184,DevOps,Analyst,11.8,Node.js,PRJ379,Project_33,TechCorp USA,USA,T&M,2024-06-01,2024-08-07,1180,1472,278496,320573.56,126,No,1.1,No,NA,1.9
+EMP0185,Employee_185,Support,Tech Lead,10.2,AWS,PRJ931,Project_22,HealthPlus UK,UK,T&M,2024-03-22,2024-10-20,1516,1506,267796,303552.61,132,No,2.4,No,NA,3.5
+EMP0186,Employee_186,Data Analytics,Manager,2.4,Azure,PRJ103,Project_03,RetailGiant USA,USA,Fixed,2024-03-19,2024-09-22,1064,1148,198979,220108.39,42,Yes,5,No,NA,1.4
+EMP0187,Employee_187,Cloud,Architect,11.6,Salesforce,PRJ779,Project_17,FinBank UK,UK,T&M,2024-02-13,2024-10-02,1645,1303,41986,34073.38,65,No,1.9,No,NA,5
+EMP0188,Employee_188,Cloud,Tech Lead,14.3,Python,PRJ543,Project_33,HealthPlus UK,UK,T&M,2024-02-07,2024-12-11,556,512,15300,16326.21,28,No,1.2,No,NA,4.1
+EMP0189,Employee_189,DevOps,Junior Dev,2.7,Java,PRJ837,Project_23,StartupXYZ India,India,Fixed,2024-04-12,2024-10-11,1052,1145,400401,395268.43,51,Yes,1.8,No,NA,3.8
+EMP0190,Employee_190,UI/UX,Manager,9.2,React,PRJ891,Project_50,RetailGiant USA,USA,Fixed,2024-04-29,2024-08-03,527,467,81304,80941.4,79,Yes,3.1,No,NA,1.5
+EMP0191,Employee_191,UI/UX,Manager,13.5,Java,PRJ107,Project_35,FinBank UK,UK,T&M,2024-02-06,2024-12-13,1805,1711,270724,299015.1,67,Yes,1.1,No,NA,1.8
+EMP0192,Employee_192,UI/UX,Junior Dev,3.5,Node.js,PRJ646,Project_18,FinBank UK,UK,T&M,2024-04-12,2024-12-08,1935,1423,117171,134259,22,Yes,4.5,No,NA,1.8
+EMP0193,Employee_193,Support,Consultant,11.6,Azure,PRJ870,Project_44,StartupXYZ India,India,Fixed,2024-05-02,2024-10-14,268,219,198768,216140.69,23,Yes,1.4,No,NA,1.9
+EMP0194,Employee_194,UI/UX,Architect,8.8,React,PRJ198,Project_24,RetailGiant USA,USA,T&M,2024-06-19,2024-12-24,889,638,478527,615551.33,118,Yes,2.4,No,NA,4.4
+EMP0195,Employee_195,Cloud,Consultant,8.3,Salesforce,PRJ634,Project_34,HealthPlus UK,UK,T&M,2024-06-06,2024-08-20,555,625,335438,369394.5,131,Yes,3.9,Yes,Relocation,2.3
+EMP0196,Employee_196,UI/UX,Consultant,11,Node.js,PRJ793,Project_14,HealthPlus UK,UK,Fixed,2024-06-26,2024-10-02,371,393,301552,249694.35,29,Yes,4.6,No,NA,2.8
+EMP0197,Employee_197,Cloud,Tech Lead,0.8,Java,PRJ505,Project_28,TechCorp USA,USA,T&M,2024-06-15,2024-11-10,437,353,321355,323246.34,127,Yes,3.7,No,NA,4.1
+EMP0198,Employee_198,Support,Analyst,6.4,Salesforce,PRJ352,Project_10,RetailGiant USA,USA,T&M,2024-06-06,2024-07-21,1474,1816,29306,27605.18,137,Yes,2.9,No,NA,3
+EMP0199,Employee_199,QA,Analyst,13.4,Salesforce,PRJ347,Project_44,RetailGiant USA,USA,T&M,2024-03-16,2024-08-20,101,84,286686,258295.33,99,Yes,1.6,No,NA,2.5
+EMP0200,Employee_200,Support,Consultant,8.8,AWS,PRJ524,Project_24,RetailGiant USA,USA,T&M,2024-06-18,2024-12-13,949,897,322774,342860.37,106,Yes,3.3,Yes,Relocation,1.8
