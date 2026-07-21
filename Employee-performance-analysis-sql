@@ -1,0 +1,139 @@
+create database Employee_Details;
+
+show columns from employee_performance;
+
+alter table employee_performance
+rename column ï»¿Employee_ID to Employee_ID;
+
+--Employee Analysis 
+
+select*from employee_performance
+order by Performance_Rating desc
+limit 10;
+
+select * from employee_performance
+where performance_rating <2.5;
+
+select Employee_Name,performance_Rating,Experience_years from employee_performance
+order by Experience_years desc
+limit 5;
+
+select Employee_ID,Employee_Name,Actual_Hours,Planned_Hours from employee_performance
+where Actual_Hours>Planned_Hours;
+
+
+--Department Analysis
+
+select Department,Avg(Performance_Rating) as Average_Rating from Employee_performance
+group by department
+order by average_rating desc;
+
+select Department,avg(Employee_Satisfaction_Score) as Avg_satisfaction_score from employee_performance
+group by Department
+order by avg_satisfaction_score desc;
+
+select Department,count(attrition_flag)as Employee_Left from employee_performance
+group by department
+order by Employee_left desc;
+
+select Department,count(Department) as Total_Employee from employee_performance
+where Attrition_Flag='yes'
+group by Department
+order by Total_Employee desc;
+
+select Department,max(Experience_years) as Experienced_Employee from employee_performance
+group by department;
+
+--Technology Analysis
+
+select Technology_stack,avg(performance_rating) as AVG_rating from employee_performance
+group by Technology_Stack
+order by AVG_rating desc;
+
+select Technology_stack,avg(Employee_satisfaction_score) as avg_employee_satisfaction from employee_performance
+group by Technology_Stack
+order by avg_employee_satisfaction desc;
+
+select technology_stack,count(technology_stack) as Total_Employees from employee_performance
+group by Technology_Stack
+order by Total_Employees desc;
+
+select Technology_stack,count(attrition_flag) as Highest_Attrition from employee_performance
+where Attrition_Flag='yes'
+group by Technology_stack
+order by Highest_Attrition desc;
+
+select Technology_stack,max(experience_years) as Experienced_Employee from Employee_performance
+group by Technology_stack
+order by Experienced_Employee desc;
+
+
+--Project Analysis
+
+select * from employee_performance;
+
+select Project_Name,sum(Budget-Actual_cost) as profit from employee_performance
+group by Project_Name
+order by profit desc;
+
+select project_Name,Budget,Actual_cost from employee_performance
+where Actual_Cost>budget;
+
+select project_name,planned_hours,Actual_hours,(Actual_Hours-Planned_Hours)as Extra_Hours from employee_performance
+where Planned_Hours<Actual_Hours
+order by Extra_hours desc;
+
+select project_Name, max(Budget)as Highest_Budget from employee_performance
+group by Project_Name
+order by Highest_Budget desc;
+
+
+--Client Analysis 
+
+select client_country,count(Project_Name) as Total_Projects from employee_performance
+group by Client_Country
+order by Total_Projects desc;
+
+select client_country,sum(Budget) as Total_Budget from employee_performance
+group by Client_Country
+order by Total_Budget desc;
+
+select client_Name,sum(budget-Actual_cost) as Profit from employee_performance
+group by client_name
+order by Profit desc;
+
+select client_name, count(project_Name) as Total_projects from employee_Performance
+group by client_name
+order by Total_projects desc;
+
+
+--Employee Satisfaction & Attrition Analysis
+
+select Avg(Employee_Satisfaction_Score) as Avg_satisfaction_score from employee_performance
+where attrition_flag='Yes';
+
+select Exit_reason,count(exit_reason) as Employee_count from employee_performance
+where Attrition_Flag='Yes'
+group by Exit_Reason
+order by Employee_count desc;
+
+select avg(performance_rating) as Avg_performance from employee_performance
+where Attrition_Flag='Yes';
+
+select Department,max(Employee_Satisfaction_Score) as Highest_Employee_Satisfaction from employee_performance
+group by department
+order by Highest_Employee_Satisfaction desc;
+
+select Employee_ID,Employee_Name,Experience_Years, Employee_satisfaction_score from employee_performance
+where Experience_years>10 and Employee_Satisfaction_Score<3;
+
+--Windows Function
+
+select employee_name,department,performance_rating,Rank()over(partition by department order by performance_rating desc)
+as employee_rank from employee_performance;
+
+--SubQueries
+
+select Employee_name,performance_rating from employee_performance
+where Performance_Rating>(select avg(Performance_Rating)from employee_performance);
+
