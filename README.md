@@ -26,7 +26,6 @@ The dataset contains:
 - MySQL Workbench
 - SQL
 - Excel
-- Power BI
 
 ## Analysis Performed
 
